@@ -15652,6 +15652,16 @@
       "FilePath": "e:\\NetCore\\NetCore\\DemoNetCore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\NetCore\\DemoNetCore\\Views\\HelloWorld\\Demo.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Demo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\NetCore\\DemoNetCore\\Views\\HelloWorld\\Index.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Index.cshtml",
+      "FileKind": "mvc"
     }
   ],
   "SerializationFormat": "0.2"
