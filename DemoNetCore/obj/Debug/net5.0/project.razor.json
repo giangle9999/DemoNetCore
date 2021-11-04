@@ -15619,8 +15619,18 @@
   "RootNamespace": "DemoNetCore",
   "Documents": [
     {
+      "FilePath": "e:\\NetCore\\NetCore\\DemoNetCore\\Views\\Movies\\Delete.cshtml",
+      "TargetPath": "Views\\Movies\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\NetCore\\NetCore\\DemoNetCore\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\NetCore\\DemoNetCore\\Views\\Movies\\Index.cshtml",
+      "TargetPath": "Views\\Movies\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15629,8 +15639,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "e:\\NetCore\\NetCore\\DemoNetCore\\Views\\Movies\\Details.cshtml",
+      "TargetPath": "Views\\Movies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "e:\\NetCore\\NetCore\\DemoNetCore\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\NetCore\\DemoNetCore\\Views\\Movies\\Edit.cshtml",
+      "TargetPath": "Views\\Movies\\Edit.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -15661,6 +15681,11 @@
     {
       "FilePath": "e:\\NetCore\\NetCore\\DemoNetCore\\Views\\HelloWorld\\Index.cshtml",
       "TargetPath": "Views\\HelloWorld\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "e:\\NetCore\\NetCore\\DemoNetCore\\Views\\Movies\\Create.cshtml",
+      "TargetPath": "Views\\Movies\\Create.cshtml",
       "FileKind": "mvc"
     }
   ],
