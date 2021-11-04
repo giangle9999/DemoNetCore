@@ -41,6 +41,9 @@ namespace DemoNetCore
             }
         });
 
+            services.AddDbContext<ApplicationDBB12Context>(options =>
+                    options.UseSqlite(Configuration.GetConnectionString("ApplicationDBB12Context")));
+
 /*             services.AddDbContext<ApplicationDBContext>(options =>
                     options.UseSqlite(Configuration.GetConnectionString("ApplicationDBContext"))); */
         }

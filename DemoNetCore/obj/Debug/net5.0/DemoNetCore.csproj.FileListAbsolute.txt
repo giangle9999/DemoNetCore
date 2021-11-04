@@ -172,3 +172,8 @@ E:\NetCore\NetCore\DemoNetCore\obj\Debug\net5.0\Razor\Views\Movies\Delete.cshtml
 E:\NetCore\NetCore\DemoNetCore\obj\Debug\net5.0\Razor\Views\Movies\Details.cshtml.g.cs
 E:\NetCore\NetCore\DemoNetCore\obj\Debug\net5.0\Razor\Views\Movies\Edit.cshtml.g.cs
 E:\NetCore\NetCore\DemoNetCore\obj\Debug\net5.0\Razor\Views\Movies\Index.cshtml.g.cs
+E:\NetCore\NetCore\DemoNetCore\obj\Debug\net5.0\Razor\Views\Demos\Create.cshtml.g.cs
+E:\NetCore\NetCore\DemoNetCore\obj\Debug\net5.0\Razor\Views\Demos\Delete.cshtml.g.cs
+E:\NetCore\NetCore\DemoNetCore\obj\Debug\net5.0\Razor\Views\Demos\Details.cshtml.g.cs
+E:\NetCore\NetCore\DemoNetCore\obj\Debug\net5.0\Razor\Views\Demos\Edit.cshtml.g.cs
+E:\NetCore\NetCore\DemoNetCore\obj\Debug\net5.0\Razor\Views\Demos\Index.cshtml.g.cs
